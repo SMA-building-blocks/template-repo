@@ -49,6 +49,8 @@ cd {PREENCHER}
 make build-and-run
 ```
 
+> 🚨 **IMPORTANTE:** Ao executar o projeto, primeiro será realizada a criação de todos os agentes participantes. Logo após, para a efetiva realização do propósito desejado pelo *building block*, é necessário pressionar **ENTER** no terminal para a continuidade da execução do código. Esta decisão foi tomada em prol de uma facilitação do uso do *sniffer* para a visualização da comunicação entre os agentes participantes.
+
 - É possível realizar apenas a *build* do projeto com o seguinte comando:
 
 ```bash
